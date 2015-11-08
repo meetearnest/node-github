@@ -1,5 +1,5 @@
 {
-    "name" : "@meetearnest/github",
+    "name" : "@earnest/github",
     "version" : "0.2.3",
     "description" : "NodeJS wrapper for the GitHub API",
     "author": "Mike de Boer <info@mikedeboer.nl>",
